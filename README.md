@@ -37,7 +37,7 @@ Projekt obejmuje:
 - obliczenia
 
 - rysunki 
-
+## Wykonane rysunki
 <img src="https://github.com/karolina123-45/projekt-budynek/blob/main/folder/obraz_2026-04-07_192407551.png" alt="obraz_2026-04-07_192407551" width="600"> 
 
 Rys.1 Przekrój budynku
