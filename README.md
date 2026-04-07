@@ -38,11 +38,11 @@ Projekt obejmuje:
 
 - rysunki 
 
-<img src="https://github.com/karolina123-45/projekt-budynek/blob/main/obraz_2026-04-07_192407551.png" alt="obraz_2026-04-07_192407551" width="600"> 
+<img src="https://github.com/karolina123-45/projekt-budynek/blob/main/folder/obraz_2026-04-07_192407551.png" alt="obraz_2026-04-07_192407551" width="600"> 
 
 Rys.1 Przekrój budynku
 
 
-<img src="https://github.com/karolina123-45/projekt-budynek/blob/main/Zrzut%20ekranu%202026-04-07%20185049.png" alt="Zrzut ekranu 2026-04-07 185049" width="600"> 
+<img src="https://github.com/karolina123-45/projekt-budynek/blob/main/folder/Zrzut%20ekranu%202026-04-07%20185049.png" alt="Zrzut ekranu 2026-04-07 185049" width="600"> 
 
 Rys.2 Rzut budynku
